@@ -111,7 +111,7 @@ Proyecto desarrollado por:
 Con apoyo de modelos de inteligencia artificial
 ## [ChatGPT](https://chatgpt.com)
 
-Script `TabuLangermann.py` elaborado por:
+Script `BusquedaTabuEjemplo.py` elaborado por:
 ## Jerónimo Rúa Herrera
 ## Tomas Velasquez Eusse
 
