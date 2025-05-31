@@ -62,6 +62,10 @@ optimizar la función **Langermann**. Incluye herramientas para:
 
 ## 🧩 Solución
 
+Plot 1: ![Figure_1](https://github.com/user-attachments/assets/81992c0e-d053-4036-9c70-fa1f9071698f)
+Plot 2: ![Figure_2](https://github.com/user-attachments/assets/917163ea-17fb-4b65-8891-33f51ebc4b0d)
+Plot 3: ![Figure_3](https://github.com/user-attachments/assets/760e0112-b4f0-4de3-b697-635a1eca2e44)
+
 ## Resultados
 
 # 📉 Valor mínimo encontrado
