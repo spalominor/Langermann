@@ -53,6 +53,7 @@ optimizar la función **Langermann**. Incluye herramientas para:
 📄 **`Test.py`**  
 📊 Simulación intensiva del algoritmo Tabú (~1000 iteraciones).  
 📈 Promedia resultados, calcula desviación y muestra la mejor solución encontrada.
+
 ---
 
 ## 🧪 Instrucciones de Uso
